@@ -1,0 +1,5 @@
+*__pycache__
+appdaemon/conf/examples*
+hass_config/deps
+hass_config/home-assistant_v2.db
+hass_config/home-assistant.log
