@@ -1,0 +1,10 @@
+1. Run hass
+
+hass --config hass_config --open-ui
+
+
+# scratchpad - how to run on a mac
+appdaemon -c appdaemon/conf/appdaemon.cfg
+
+
+/opt/local/Library/Frameworks/Python.framework/Versions/3.5/bin/appdaemon -c conf/appdaemon.cfg
